@@ -27,6 +27,9 @@
    ```
 5. Add remote url [link the remote repository url]
    ```
+  
+   git remote add origin "[git@github.com:hemshankarrrsah/hemshankarrrsah.git]"
+   ```
 
 6. push the commited code to remote repo
    At initial (-u: upstream)
@@ -60,4 +63,3 @@
    To Verify/Display Config (Note: enter to view more config and q to exit the opened editor):
    git config --list
    ```
-   
